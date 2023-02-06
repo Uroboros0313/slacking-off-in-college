@@ -1,0 +1,27 @@
+# dataset
+mnist_data
+duie
+cora
+ml-1m
+criteo
+ml-100k
+wiki
+*.csv
+*.xlsx
+*.pdf
+*.txt
+*.dat
+*.citeseer.*
+*pubmed.*
+
+# notes
+sparse
+
+# cache
+__pycache__
+*.pyc
+
+# pretrained_models
+pretrained
+
+# temp
